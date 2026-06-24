@@ -29,11 +29,6 @@ This repository serves as a centralized collection of:
 ```text
 AI-ML-Bootcamp-Resources/
 │
-├── 📂 Notes/
-│   ├── 🐍 Python/
-│   ├── 🤖 Machine Learning/
-│   └── 🧠 AI Fundamentals/
-│
 ├── 📂 Assignments/
 │   └── Bootcamp assignments and solutions
 │
@@ -45,12 +40,6 @@ AI-ML-Bootcamp-Resources/
 │
 ├── 📂 Projects/
 │   └── End-to-end AI & ML projects
-│
-├── 📂 Presentations/
-│   └── Slides and presentation materials
-│
-├── 📂 Resources/
-│   └── Books, cheat sheets, articles, and useful links
 │
 └── 📄 README.md
 ```
