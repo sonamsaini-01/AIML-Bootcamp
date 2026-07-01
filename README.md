@@ -12,17 +12,15 @@ Whether you're a beginner starting your AI journey or looking for structured lea
 
 This repository serves as a centralized collection of:
 
-📚 Lecture Notes
-
 📝 Assignments & Exercises
 
-🐍 Python Programming for AI/ML
+ Python Programming for AI/ML
 
-📊 Data Analysis & Visualization
+ Data Analysis & Visualization
 
-🤖 Machine Learning Algorithms
+ Machine Learning Algorithms
 
-🧠 Artificial Intelligence Concepts
+ Artificial Intelligence Concepts
 
 ## 📁 Repository Structure
 
@@ -32,16 +30,18 @@ AI-ML-Bootcamp-Resources/
 ├── 📂 Assignments/
 │   └── Bootcamp assignments and solutions
 │
-├── 📂 Practice/
-│   └── Practice problems and coding exercises
+├── 📂 Problem Scoping/
+│   └── Practice problems and its scoping
 │
-├── 📂 Datasets/
-│   └── Sample datasets used in projects and assignments
+├── 📂 Web Scraping/
+│   └── Sample datasets of static, dynamic websites
 │
 ├── 📂 Projects/
 │   └── End-to-end AI & ML projects
 │
 └── 📄 README.md
+│
+└── 📄 Blogs
 ```
 
 ## 👩‍💻 Author
@@ -50,8 +50,8 @@ AI-ML-Bootcamp-Resources/
 
 🎓 B.Tech Computer Science Engineering Student
 
-💡 Exploring Artificial Intelligence, Machine Learning, and Software Development
+ Exploring Artificial Intelligence, Machine Learning, and Software Development
 
-🌱 Learning • Building • Growing Every Day
+ Learning • Building • Growing Every Day
 
 ---
